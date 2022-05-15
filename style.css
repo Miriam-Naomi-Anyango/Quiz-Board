@@ -35,3 +35,12 @@ button{
 button{
     margin-top: 10px;
 }
+.containere{
+    border: 5px solid blue;
+    padding: 30px;
+    border-radius: 10px;
+    width: 50%;
+}
+button{
+    margin-top: 10px;
+}
