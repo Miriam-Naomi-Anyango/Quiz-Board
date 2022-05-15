@@ -47,4 +47,8 @@ button{
 }
 button{
     margin-top: 10px;
+    background-color: aqua;
+    border: solid black;
+    border-radius: 5px;
+    padding: 10px;
 }
