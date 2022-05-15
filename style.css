@@ -2,12 +2,15 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: bisque;
 }
+body{
+
+}
 .containera{
     border: 5px solid blue;
     padding: 30px;
     border-radius: 10px;
     width: 50%;
-    display: none;
+    display: none;s
 }
 button{
     margin-top: 10px;

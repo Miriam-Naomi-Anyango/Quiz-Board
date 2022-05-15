@@ -8,6 +8,11 @@
     <link type="text/css" rel="stylesheet" href="style.css"
 </head>
 <body>
+    <div class="start">
+        <h2>JavaScript Quiz</h2><br>
+        <button class="startquiz" onclick="next('Start Quiz')">START QUIZ</button>
+
+    </div>
     <div class="containera">
         Q One. The __________ operator helps us find the remainder?<br>
         <input type="radio" name="question1" id="correct1">Modulus<br>
@@ -86,7 +91,7 @@
         Q Ten. There are three main Boolean operators in JavaScript, &&, || and !== <br>
         <input type="radio" name="question10">True<br>
         <input type="radio" name="question10" id="correct10">False<br>
-        <button>SUBMIT QUIZ</button>
+        <button onclick="result()">SUBMIT QUIZ</button>
     </div>
     <script src="main.js"></script>
 </body>
