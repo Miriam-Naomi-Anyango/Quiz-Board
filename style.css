@@ -3,6 +3,7 @@
     padding: 30px;
     border-radius: 10px;
     width: 50%;
+    display: none;
 }
 button{
     margin-top: 10px;
