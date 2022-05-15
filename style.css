@@ -8,3 +8,30 @@
 button{
     margin-top: 10px;
 }
+.containerb{
+    border: 5px solid blue;
+    padding: 30px;
+    border-radius: 10px;
+    width: 50%;
+}
+button{
+    margin-top: 10px;
+}
+.containerc{
+    border: 5px solid blue;
+    padding: 30px;
+    border-radius: 10px;
+    width: 50%;
+}
+button{
+    margin-top: 10px;
+}
+.containerd{
+    border: 5px solid blue;
+    padding: 30px;
+    border-radius: 10px;
+    width: 50%;
+}
+button{
+    margin-top: 10px;
+}
