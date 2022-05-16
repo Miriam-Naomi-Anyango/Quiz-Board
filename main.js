@@ -2,6 +2,7 @@
 document.getElementsByClassName('containera')[0].style.display = "block";
 // defining the next function
 function next(id) {
+    document.getElementsByClassName('containera')[id].style.display = "block";
     document.getElementsByClassName('containera')[id-1].style.display = "none";
     document.getElementsByClassName('containera')[id].style.display = "block";
     document.getElementsByClassName('containera')[id-2].style.display = "none";
@@ -21,6 +22,8 @@ function next(id) {
     document.getElementsByClassName('containera')[id-9].style.display = "none";
     document.getElementsByClassName('containera')[id].style.display = "block";
     document.getElementsByClassName('containera')[id-10].style.display = "none";
+    document.getElementsByClassName('containera')[id].style.display = "block";
+    document.getElementsByClassName('containera')[id-11].style.display = "none";
     document.getElementsByClassName('containera')[id].style.display = "block";
 }
 // obtaining the final results
