@@ -38,4 +38,16 @@ As a user of this web application, you will be ablke to:
 
 3. Submit my answers when you're done taking the quiz.
 
-4. Get the results of what you scored after submitting my answers on the website.  
+4. Get the results of what you scored after submitting my answers on the website. 
+
+## Installation Requirement
+In order to install and use the application one will require the following
+
+* Access to either a computer, a smartphone a tablet.
+* Access to Internet/ Internet connection.
+
+## Live Link
+Click this link to view the live application.
+
+LiveLink -[Gh-pages]()
+
