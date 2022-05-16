@@ -49,7 +49,7 @@ In order to install and use the application one will require the following
 ## Live Link
 Click this link to view the live application.
 
-LiveLink -[Gh-pages]()
+LiveLink -[Gh-pages](https://miriam-naomi-anyango.github.io/Quiz-Board/)
 
 ## Technology Used 
 
